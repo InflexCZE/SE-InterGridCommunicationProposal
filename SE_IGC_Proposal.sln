@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IGC_Mod", "IGC_Mod\IGC_Mod.csproj", "{FC48A764-E110-4746-A12C-F7E50FC6A479}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IGC_PB", "IGC_PB\IGC_PB.csproj", "{1BC66F24-49AB-489E-8C99-A6E59B9AE6A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SamplePBScripts", "SamplePBScripts\SamplePBScripts.csproj", "{001D6736-8BA4-4245-B77A-34FA51A5FAD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC48A764-E110-4746-A12C-F7E50FC6A479}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{FC48A764-E110-4746-A12C-F7E50FC6A479}.Debug|Any CPU.Build.0 = Debug|x64
+		{FC48A764-E110-4746-A12C-F7E50FC6A479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC48A764-E110-4746-A12C-F7E50FC6A479}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BC66F24-49AB-489E-8C99-A6E59B9AE6A0}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{1BC66F24-49AB-489E-8C99-A6E59B9AE6A0}.Debug|Any CPU.Build.0 = Debug|x64
+		{1BC66F24-49AB-489E-8C99-A6E59B9AE6A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BC66F24-49AB-489E-8C99-A6E59B9AE6A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{001D6736-8BA4-4245-B77A-34FA51A5FAD8}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{001D6736-8BA4-4245-B77A-34FA51A5FAD8}.Debug|Any CPU.Build.0 = Debug|x64
+		{001D6736-8BA4-4245-B77A-34FA51A5FAD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{001D6736-8BA4-4245-B77A-34FA51A5FAD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
