@@ -25,8 +25,7 @@ namespace SamplePBScripts
         public const string MY_TAG = "PING";
         //private const string MY_TAG = "PONG";
 
-        //private long OtherEndpointAddress { get; set; } = -1;
-        private long OtherEndpointAddress { get; set; } = 86833319694180635;
+        private long OtherEndpointAddress { get; set; } = -1;
 
         public const string MESSAGE_CALLBACK = "NEW_MESSAGE";
 

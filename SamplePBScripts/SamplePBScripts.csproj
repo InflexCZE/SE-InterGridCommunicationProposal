@@ -79,7 +79,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="02_ShowCase_PingPong.cs" />
     <Compile Include="03_ShowCase_StateBroadcastingDrone.cs" />
-    <Compile Include="ShowCase_Test.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\IGC_PB\IGC_PB.csproj">
