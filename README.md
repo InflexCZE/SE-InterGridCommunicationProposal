@@ -1,3 +1,7 @@
+### IGC proposal was accepted to the vanilla game with minor tweaks to the final API.
+See new repository for working examples here:
+<https://github.com/InflexCZE/IGC_ShowCase/>
+
 ## Space Engineers intergrid communication proposal
 This is proposal for possible integration of inter-grid communication to Space Engineers game.
 
